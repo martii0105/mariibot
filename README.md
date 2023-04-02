@@ -56,7 +56,7 @@
 <a href="https://dash.boxmineworld.com" target="_blank"> <img src="https://img.shields.io/badge/-boxmine-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 -----
-### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝙂𝙄𝙏𝙃𝙐𝘽 <a href="https://github.com/elrebelde21/The-LoliBot-MD"> <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" height="40px"> </a>
+### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝙂𝙄𝙏𝙃𝙐𝘽 <a href="https://github.com/Natixemer/BotNati-MD"> <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" height="40px"> </a>
 #### ⬇️ 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎 (Opción 1):
 ```bash
 termux-setup-storage
@@ -65,7 +65,7 @@ termux-setup-storage
 pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget && pkg install yarn
 ```
 ```bash
-wget -O - https://raw.githubusercontent.com/elrebelde21/The-LoliBot-MD/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/Natixemer/BotNati-MD/master/install.sh | bash
 ```
 ------------------
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="40px">  
