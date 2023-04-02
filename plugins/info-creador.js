@@ -73,10 +73,10 @@ sections }
       const count = args[1] && args[1].length > 0 ? Math.min(99999999, Math.max(parseInt(args[1]), 1)) : !args[1] || args.length < 3 ? 1 : Math.min(1, count)
         switch (type) {
           case 'nomor':
-          conn.reply(m.chat, "The-LoliBot-MD", m, { contextInfo: { mentionedJid: [nowner] }})
+          conn.reply(m.chat, "BotNati-MD", m, { contextInfo: { mentionedJid: [nowner] }})
            break
             case 'bio':
-          conn.sendHydrated(m.chat, teksbio, wm, ppown, "https://github.com/elrebelde21/The-LoliBot-MD", "𝙂𝙞𝙩𝙝𝙪𝙗",null, [null, null], m)
+          conn.sendHydrated(m.chat, teksbio, wm, ppown, "https://github.com/Natixemer/BotNati-MD", "𝙂𝙞𝙩𝙝𝙪𝙗",null, [null, null], m)
             break
           default:
             return await conn.sendMessage(m.chat, listMessage, { quoted: m, contextInfo: { mentionedJid: [m.sender] }})
