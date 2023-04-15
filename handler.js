@@ -1176,8 +1176,8 @@ function _0x1ce7(){const _0xac1ac2=['212872fjshDh','17320yUXgkp','6019568oxJfgD'
 
 *👉🏻 Puedes contactar al propietario del Bot si crees que se trata de un error o para charlar sobre tu desbaneo*
 
-👉 wa.me/5492266466080
-👉 Wa.me/573183650526
+👉 wa.me/51994156047
+👉 Wa.me/51963194056
 `.trim())
                         return
                 }
