@@ -8,7 +8,7 @@ Hola 👋🏻, Bienvenido a los grupos oficiales, te invito a unete a los grupos
 
 2) *${nnn}*
 
-➤ Grupo del Colaboracion LoliBot, GataBot-MD
+➤ Grupo del Colaboracion CharlieBot, Nati-MD
  *${nnnt}*
  
 ➤ Grupo del col 2 (sin limite)
