@@ -21,10 +21,10 @@ let totalreg = Object.keys(global.db.data.users).length
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
 let teksbio = `
 *𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤* 
-*Wa.me/5492266466080 (no bot)*
-*Wa.me/573183650526 (bot)*
-*Wa.me/51924400621 (bot ²)*
-*Wa.me/17862004403 (bot ³)*
+*Wa.me/51994156047 (no bot)*
+*Wa.me/51963194056 (no bot)*
+*Wa.me/51945989916 (bot)*
+*Wa.me/56935861013 (bot ²)*
 `
   let teks = ' '
 const sections = [
@@ -76,7 +76,7 @@ sections }
           conn.reply(m.chat, "BotNati-MD", m, { contextInfo: { mentionedJid: [nowner] }})
            break
             case 'bio':
-          conn.sendHydrated(m.chat, teksbio, wm, ppown, "https://github.com/Natixemer/BotNati-MD", "𝙂𝙞𝙩𝙝𝙪𝙗",null, [null, null], m)
+          conn.sendHydrated(m.chat, teksbio, wm, ppown, "https://github.com/Emergit2006/Charlie-MD-V4", "𝙂𝙞𝙩𝙝𝙪𝙗",null, [null, null], m)
             break
           default:
             return await conn.sendMessage(m.chat, listMessage, { quoted: m, contextInfo: { mentionedJid: [m.sender] }})
