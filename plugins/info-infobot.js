@@ -83,7 +83,7 @@ let info = `┌───⊷ ${lb}
 ┆[❗] *𝙍𝙚𝙨𝙩𝙧𝙞𝙘𝙩:* ${restrict ? '*Activado ✔*' : '*Desactivado ✘*'} 
 ┆
 ╰──────────────────`.trim() 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝙏𝙝𝙚-𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝐍𝐚𝐭𝐢𝐱𝐂𝐡𝐚𝐫𝐥𝐢𝐞', 'status@broadcast')
 conn.sendFile(m.chat, vn, 'infobot.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true })
 }
 handler.help = ['infobot']
