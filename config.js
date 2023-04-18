@@ -93,9 +93,9 @@ global.author = '𝐍𝐚𝐭𝐢𝐱𝐂𝐡𝐚𝐫𝐥𝐢𝐞-𝙈𝘿'
 
 global.vs = '1.4.5'
 global.lb = '𝐍𝐚𝐭𝐢𝐱𝐂𝐡𝐚𝐫𝐥𝐢𝐞-𝙈𝘿'
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
+global.yt = 'https://www.youtube.com/@Charlie-MD-V4'
+global.ig = 'https://www.tiktok.com/@Charlle_md'
+global.md = 'https://github.com/Emergit2006/Charlie-MD-V4'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 global.nna = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c'
@@ -112,7 +112,7 @@ global.nnnt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //Grupo del Col
 
 global.nnntt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //Grupo COL 2 
 
-global.nnnttt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //enlace lolibot
+global.nnnttt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //enlace CharliexNati
 
 global.nnntttt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c'
 global.nnnttttgrupo = nnntttt //Grupo ayuda sobre el bot
