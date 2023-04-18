@@ -7,7 +7,7 @@
 <a href="https://github.com/Emergit2006"><img src="https://github.com/Emergit2006.png" width="300" height="300" alt="Emergit2006"/></a>
 
 
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="CharliexNatiBot" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 
 
@@ -33,17 +33,6 @@
 </a>
 -----
 
-[![blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-](https://facebook.com/groups/872989990425789/)  
-
------
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtube.com/channel/UCPSrzHooOjQMRmUK_2RLcSw)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
------
-<p align="hihg">   
-<a href="https://www.tiktok.com/@thelolibot_md" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
-
------
 
 ### `—◉ 💥 ACTIVAR EN BOXMINEHOST 💥`
 
