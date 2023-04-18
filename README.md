@@ -21,8 +21,8 @@
 -----
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 
-<a href="https://chat.whatsapp.com/LZFE2MHvEkY7b69TmAGmHR" target="blank"><img src="https://img.shields.io/badge/Grupo CharliexNati-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a href="https://chat.whatsapp.com/Gvp9BotznpdKoJ461uBlLO" target="blank"><img src="https://img.shields.io/badge/Grupo spamxBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c" target="blank"><img src="https://img.shields.io/badge/Grupo CharliexNati-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c" target="blank"><img src="https://img.shields.io/badge/Grupo spamxBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----
 <a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/Grupo ayuda sobre el bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
