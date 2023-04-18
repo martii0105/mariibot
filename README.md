@@ -134,10 +134,9 @@ pm2 start index
 -----
 ### ⚡ ACTIVA EL REPLIT
 [![blog](https://img.shields.io/badge/Lolibot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/SMjCcfuyWQE)
 
-[![Deploy](https://img.shields.io/badge/replit_-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/elrebelde21/The-LoliBot-MD)
-<a href="https://replit.com/github/elrebelde21/The-LoliBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+[![Deploy](https://img.shields.io/badge/replit_-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/Emergit2006/Charlie-MD-V4)
+<a href="https://replit.com/github/Emergit2006/Charlie-MD-V4"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
 -----
 - [x] Resultado <details><summary>Importar Repositorio - The-LoliBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
 ------------------
@@ -166,4 +165,3 @@ pm2 start index
 
 ----
 ### 𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨
-[![GataNina-Li](https://github.com/Natixemer-Li.png?size=100)](https://github.com/Natixemer) 
