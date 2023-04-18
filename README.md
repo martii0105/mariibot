@@ -56,7 +56,7 @@ wget -O - https://raw.githubusercontent.com/Emergit2006/CHARLIE-MD-V4/master/ins
 ------------------
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="40px">  
 > DESCARGUÉ Y DESCOMPRIMA 
-### [`The Lolibot-MD ~ MediaFire`](https://www.mediafire.com/file/cv64tns6co3272q/Lolibot.zip/file) <a href="https://www.mediafire.com/file/cv64tns6co3272q/Lolibot.zip/file"> <img src="https://i.pinimg.com/originals/47/77/17/477717205aa460ae58f6b988a4606a02.png" height="30px">
+### [`Charlie-MD-V4 ~ MediaFire`](https://www.mediafire.com/file/cv64tns6co3272q/Lolibot.zip/file) <a href="https://www.mediafire.com/file/cv64tns6co3272q/Lolibot.zip/file"> <img src="https://i.pinimg.com/originals/47/77/17/477717205aa460ae58f6b988a4606a02.png" height="30px">
 [![blog](https://img.shields.io/badge/LoliBot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/i1xjB4bmYCc)
 
@@ -81,7 +81,7 @@ npm start
 ### 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐂𝐀𝐒𝐎 𝐃𝐄 𝐃𝐄𝐓𝐄𝐍𝐄𝐑𝐒𝐄 <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
-> cd The-LoliBot-MD
+> cd Charlie-MD-V4
 > npm start
 ```
 ----
@@ -89,12 +89,12 @@ npm start
 ### 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑 <img src="http://4.bp.blogspot.com/-mFQY5cKLkQ0/U0kwKQn5RzI/AAAAAAAADk0/FDOXxWZ9grU/s1600/QR-code-color.png" height="30px">
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
-> cd The-LoliBot-MD
+> cd Charlie-MD-V4
 > rm -rf BorSession 
 > npm start
 ```
 ----
-### 🚀 USAR LOLIBOT 24/7 EN TERMUX 
+### 🚀 USAR CHARLIEXNATIBOT 24/7 EN TERMUX 
 > EJECUTE ESTE COMANDO CUANDO YA TENGA INSTALADO EL BOT
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
@@ -166,7 +166,4 @@ pm2 start index
 
 ----
 ### 𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-[![Yesenia57](https://github.com/Yesenia57.png?size=100)](https://github.com/Yesenia57) 
-[![Azami19](https://github.com/Azami19.png?size=100)](https://github.com/Azami19) 
-----
+[![GataNina-Li](https://github.com/Natixemer-Li.png?size=100)](https://github.com/GataNina-Li) 
