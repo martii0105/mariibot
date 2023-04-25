@@ -151,8 +151,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝐃𝐞𝐤𝐨'
-global.igfg = '𝐃𝐞𝐤𝐨'
+global.wm = '𝐂𝐡𝐚𝐫𝐥𝐢𝐞𝐱𝐍𝐚𝐭𝐢'
+global.igfg = '𝐂𝐡𝐚𝐫𝐥𝐢𝐞𝐱𝐍𝐚𝐭𝐢'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
